@@ -68,7 +68,7 @@ print(recommendations[['tweet_id', 'content', 'predicted_score']].head(10))
 
 ## Architecture
 - **Diagram**:  
-[Architecture Diagram](./architecture.png)
+[Architecture Diagram](./images/architecture.png)
 
 ## Results
 **Output**  
