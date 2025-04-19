@@ -1,21 +1,9 @@
 # Twitter Recommendation System 
 
-**Author**: Sachchida Nand Tiwari  
-**Roll No**: M23CSA527  
-**Date**: September 2024  
-
 A simplified implementation of Twitter's recommendation system focusing on:  
 - Community detection through clustering  
 - Engagement prediction using ML  
 - Content diversification rules  
-
-## Table of Contents
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Architecture](#-architecture)
-- [Results](#-results)
-- [Future Work](#-future-work)
 
 ## Features
 1. **Synthetic Data Generation**  
